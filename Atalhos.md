@@ -9,6 +9,11 @@ Quase tudo que o VS Code pode fazer, você pode acessar arquivos, configuraçõe
 
 </br>
 
+`CTRL + G`
+Navegar entre linhas
+
+</br>
+
 `CTRL + P`
 Procurar arquivos e pastas
 
