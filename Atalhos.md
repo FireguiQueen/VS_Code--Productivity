@@ -9,6 +9,11 @@ Quase tudo que o VS Code pode fazer, você pode acessar arquivos, configuraçõe
 
 </br>
 
+`CTRL + P`
+Procurar arquivos e pastas
+
+</br>
+
 `CTRL + SHIFT + X`
 Para abrir a aba de extensões
 
