@@ -27,7 +27,7 @@ Caso não tenha gostado de nenhum dos diversos temas oferecidos pelo VS Code, é
 
 ________________________________________________________________________
 
-### Temas recomendados para uso
+## Temas recomendados para uso
 
 * Dracula Official
 * Quiet light
