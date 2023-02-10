@@ -1,4 +1,6 @@
 # Atalhos
+Você pode também baixar atalhos de outras IDEs caso tenha preferência.
+Para isto, vá na aba de extensões e filtre por "keymaps"
 
 </br>
 
