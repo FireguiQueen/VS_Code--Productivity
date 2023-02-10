@@ -18,6 +18,15 @@ ________________________________________________________
 * Digite um número de 0 a 100 (quanto maior o número, maior a fonte)
 
 
+</br>
+</br>
+
+
+## Alterando a fonte do terminal
+* Aperte: `CTRL + SHIFT + P`
+* Digite: "Open settings"
+* Procure: "Terminal font" 
+* A partir disto, você pode alterar tanto a família quanto o tamanho da fonte
 
 
 
