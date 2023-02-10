@@ -6,6 +6,7 @@ O "#" cria IDS para elementos
 O "." cria classes para elementos
 O ">" cria filha para os elementos
 O "{}" coloca conteúdo para as tags
+O "+" serve para colocar tags no mesmo escopo 
 
 </br>
 
@@ -16,6 +17,11 @@ Criando uma DIV que ira possuir a tag <H1> como filha
 
 `h1#FirstTitle`
 Criando uma tag <h1> que irá possuir um ID
+
+</br>
+
+`div>h1 + h1`
+Criando uma DIV onde irá possuir duas tags h1
 
 </br>
 
