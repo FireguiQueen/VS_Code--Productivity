@@ -1,11 +1,10 @@
-## Fonts
+# Fonts
 * Aperte: `CTRL + SHIFT + P`
 * Digite: "Open settings"
 * Procure por "Font"
 
 </br>
 
-________________________________________________________
 
 ## Alterando a família da fonte
 * Na aba da "Font" procure por "Font-family" 
@@ -19,7 +18,6 @@ ________________________________________________________
 
 
 </br>
-</br>
 
 
 ## Alterando a fonte do terminal
@@ -29,4 +27,12 @@ ________________________________________________________
 * A partir disto, você pode alterar tanto a família quanto o tamanho da fonte
 
 
+</br>
 
+________________________________________________________
+
+# Icons
+Você pode alterar os ícones dos seus arquivos através das extensões
+
+## Extensão recomendada 
+* vscode-icons
