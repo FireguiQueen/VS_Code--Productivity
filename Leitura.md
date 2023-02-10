@@ -41,6 +41,8 @@ ________________________________________________________
 
 # Tarefas
 Instale a extensão "TODO TREE"
+Você pode fazer as tarefas na aba "TODOs" criada pela própria extensão. Ela se encontra no lado
+esquerdo do VS Code
 
 ## Com ela podemos
 * Colocar alertas de tarefas que serão mostradas no WORKSPACE do VScode
