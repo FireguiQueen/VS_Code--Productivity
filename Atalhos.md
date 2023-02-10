@@ -9,11 +9,6 @@ Quase tudo que o VS Code pode fazer, você pode acessar arquivos, configuraçõe
 
 </br>
 
-`CTRL + G`
-Navegar entre linhas
-
-</br>
-
 `CTRL + P`
 Procurar arquivos e pastas
 
@@ -40,6 +35,16 @@ Faça seleções por LETRAS de maneira mais rápida dentro da linha
 
 `SHIFT + ALT + DOWN`
 Cria uma cópia da linha
+
+</br>
+
+`CTRL + G`
+Navegar entre as linhas de maneira rápida
+
+</br>
+
+`SHIFT + CTRL + K`
+Deletar uma linha
 
 </br>
 
