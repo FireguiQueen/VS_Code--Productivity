@@ -13,7 +13,7 @@ Caso não tenha gostado de nenhum dos diversos temas oferecidos pelo VS Code, é
 
 ### Método 02
 - Pressione: `CTRL + SHIFT + X`        
-- Procure por: "Themes" 
+- Digite: @category:"themes"          OU        Clique na opção de FILTRO > CATEGORIAS > THEME 
 
 ### Método 02
 - Pressione: `CTRL + SHIFT + P`
