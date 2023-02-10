@@ -25,7 +25,7 @@ ________________________________________________________
 ## Alterando a fonte do terminal
 * Aperte: `CTRL + SHIFT + P`
 * Digite: "Open settings"
-* Procure: "Terminal font" 
+* Nas configurações, procure por "Terminal font" 
 * A partir disto, você pode alterar tanto a família quanto o tamanho da fonte
 
 
