@@ -11,7 +11,7 @@ Para acessá-los é bem simples.:
 ## Temas da comunidade
 Caso não tenha gostado de nenhum dos diversos temas oferecidos pelo VS Code, é possível instalar temas da comunidade. 
 
-f
+
 
 ### Método 01
 - Pressione: `CTRL + SHIFT + X`        
