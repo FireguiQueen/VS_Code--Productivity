@@ -36,3 +36,22 @@ Você pode alterar os ícones dos seus arquivos através das extensões
 
 ## Extensão recomendada 
 * vscode-icons
+
+________________________________________________________
+
+# Tarefas
+Instale a extensão "TODO TREE"
+
+## Com ela podemos
+* Colocar alertas de tarefas que serão mostradas no WORKSPACE do VScode
+* Colocar alertas de consertos que serão mostrados no WORKSPACE do VScode
+
+## Utilizando
+
+```js
+function SayHi(){ // TODO Criar novas funcionalidades para a function 
+    return 'Hi!'
+};
+
+(() => console.log('oi')) ()); // FIXME consertar esta função
+```
