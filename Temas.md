@@ -15,11 +15,14 @@ Caso não tenha gostado de nenhum dos diversos temas oferecidos pelo VS Code, é
 - Pressione: `CTRL + SHIFT + X`        
 - Digite: @category:"themes"          OU        Clique na opção de FILTRO > CATEGORIAS > THEME 
 
+</br>
+
 ### Método 02
 - Pressione: `CTRL + SHIFT + P`
 - Digitar: "Color theme" e logo em seguida ir na primeira opção "Browse additional color themes"
 
 
+</br>
 </br>
 
 ________________________________________________________________________
