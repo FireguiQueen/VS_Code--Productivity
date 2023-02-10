@@ -36,4 +36,3 @@ Você pode alterar os ícones dos seus arquivos através das extensões
 
 ## Extensão recomendada 
 * vscode-icons
-* 
